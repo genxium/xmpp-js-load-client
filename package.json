@@ -1,0 +1,9 @@
+{
+  "name": "xmpp-js-load-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+	"node-xmpp-client": "*",
+	"simple-xmpp": "*"
+  }
+}
